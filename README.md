@@ -1,2 +1,4 @@
 ## Projet Git et GitHub
-o Participant : MOHAMED ELAMINE Amine Chahid 
+Participant : MOHAMED ELAMINE Amine Chahid 
+Participant : Chaïma El Aïchaoui
+
